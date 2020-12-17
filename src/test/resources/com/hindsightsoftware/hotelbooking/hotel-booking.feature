@@ -1,6 +1,6 @@
 Feature: Hotel Booking
 
-  @HOTEL-1 @OPEN
+  @HOTEL-1
   Scenario Outline: Create a booking in Hotel Booking
     Given a user wants to make a booking with the following details
       | Mark | Winters | 120 | true | 2018-01-01 | 2018-01-03 | Breakfast |
@@ -17,4 +17,3 @@ Feature: Hotel Booking
     Given Hotel Booking has existing bookings
     When a specific booking is deleted by the user
     Then the booking is removed
-
