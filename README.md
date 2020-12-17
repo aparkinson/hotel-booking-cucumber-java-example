@@ -1,3 +1,4 @@
+
 # Hotel Booking Cucumber Java example
 
 [![CircleCI](https://circleci.com/gh/hindsightsoftware/hotel-booking-cucumber-java-example.svg?style=svg)](https://circleci.com/gh/hindsightsoftware/hotel-booking-cucumber-java-example)
