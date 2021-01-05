@@ -18,3 +18,6 @@ Feature: Hotel Booking
     When a specific booking is deleted by the user
     Then the booking is removed
 
+  @HOTEL-3
+  Scenario: Test Jira auth
+    Given a step
